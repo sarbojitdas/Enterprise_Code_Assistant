@@ -16,6 +16,7 @@ vector_db/
 # OS files
 .DS_Store
 Thumbs.db
+.env
 
 
 
