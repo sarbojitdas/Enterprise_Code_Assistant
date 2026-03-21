@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Vector DB (optional if large)
+vector_store/
+vector_db/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+repos/temp_repo/
+venv/
+__pycache__/
+vector_store/
+vector_db/
