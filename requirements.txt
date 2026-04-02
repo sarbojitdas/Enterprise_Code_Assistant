@@ -15,6 +15,7 @@ requests
 langchain-ollama
 langchain-groq 
 groq 
-langchain 
+langchain
+torchvision
 langchain-community  
 sentence-transformers
